@@ -3,7 +3,8 @@ Coffee_Jade_Stylus_inside_web2py
 
 This is how you can work with coffeescript, jade and stylus inside your web2py app
 
-
+see a youtube video here
+https://www.youtube.com/watch?v=zt5gnKk40Zw
 
 Note: this is a per app procedure!!
 
