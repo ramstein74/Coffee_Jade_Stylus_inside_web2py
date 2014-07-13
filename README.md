@@ -34,4 +34,6 @@ Note: this is a per app procedure!!
   
   This is just an example it can be tweaked as we wish. For that just change the gulpfile.coffee file.
   
+  Note: there is a ng-classify and sourcemaps task inside my gulpfile.coffee. 
+  Ignore them for this example. 
   Have fun!
