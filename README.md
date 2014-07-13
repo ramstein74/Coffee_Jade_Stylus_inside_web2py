@@ -26,13 +26,13 @@ Note: this is a per app procedure!!
 5 - if you use chrome install the live reload plugin.
 
 6 - Start your web2py server as usual<br>
-  inside views/default/ folder you can create your jade files
-  inside static/css folder you can create your stylus files
-  inside satic/js folder you can create your coffeescript files
+  inside views/default/ folder you can create your jade files<br>
+  inside static/css folder you can create your stylus files<br>
+  inside satic/js folder you can create your coffeescript files<br>
   
-  all of these files will be automatically converted to the same html,css and js respectively
+  all of these files will be automatically converted to the same html,css and js respectively<br>
   
-  This is just an example it can be tweaked as we wish. For that just change the gulpfile.coffee file.
+  This is just an example it can be tweaked as we wish. For that just change the gulpfile.coffee file.<br>
   
   Note: there is a ng-classify and sourcemaps task inside my gulpfile.coffee. <br>
   Ignore them for this example. <br>
