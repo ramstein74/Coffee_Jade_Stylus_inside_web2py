@@ -1,0 +1,20 @@
+ {{extend 'layout.html'}}
+
+link(rel='stylesheet', href="{{=URL('static','css/index.css')}}")
+script(src="{{=URL('static','js/1.js')}}")
+
+h1 yes i can
+
+#container.col
+
+  
+
+  |{{if message=='':}} 
+  p {{='type a message in the controller'}}
+  |{{else:}}
+  p {{=message}}
+  |{{pass}}
+  button.btn.btn-info Stylus & Jade
+
+
+

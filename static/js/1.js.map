@@ -1,0 +1,1 @@
+{"version":3,"sources":["1.coffee"],"names":[],"mappings":"AAAA,CAAA,CAAE,SAAA,GAAA;SACA,OAAO,CAAC,GAAR,CAAY,+BAAZ,EADA;AAAA,CAAF,CAAA,CAAA","file":"1.js","sourceRoot":"/source/","sourcesContent":["$ ->\r\n  console.log 'lets get web2py some friendss'\r\n"]}
