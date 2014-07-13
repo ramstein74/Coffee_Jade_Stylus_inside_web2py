@@ -9,6 +9,7 @@ Note: this is a per app procedure!!
 
 1 - Firs make sure you have nodejs installed in your machine
     goto http://nodejs.org/ and download it
+    
 2 - install gulp
     goto http://gulpjs.com/ and learn about it
     npm install -g gulp to install it globally
