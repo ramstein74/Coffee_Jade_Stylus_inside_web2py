@@ -30,7 +30,7 @@ Note: this is a per app procedure!!
   inside static/css folder you can create your stylus files<br>
   inside satic/js folder you can create your coffeescript files<br>
   
-  all of these files will be automatically converted to the same html,css and js respectively<br>
+  all of these files will be automatically converted to the same html,css and js respectively as soon as you save them<br>
   
   This is just an example it can be tweaked as we wish. For that just change the gulpfile.coffee file.<br>
   
