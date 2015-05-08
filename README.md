@@ -1,6 +1,8 @@
 Coffee_Jade_Stylus_inside_web2py
 ================================
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ramstein74/Coffee_Jade_Stylus_inside_web2py?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is how you can work with coffeescript, jade and stylus inside your web2py app
 
 see a youtube video here
